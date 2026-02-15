@@ -1,0 +1,202 @@
+school_id,school_type,school_name,school_neighborhood,n_machines,n_shops,n_total
+1,Grundschule,Schule an der Admiralstraße,Findorff-Bürgerweide,4,14,18
+2,Grundschule,Schule am Alten Postweg,Hastedt,0,1,1
+3,Grundschule,Schule Am Mönchshof,Lesum,2,2,4
+4,Grundschule,Schule An der Gete,Gete,0,2,2
+5,Grundschule,Schule an der Alfred-Faust-Straße,Kattenesch,0,2,2
+6,Grundschule,Schule Arbergen,Arbergen,0,0,0
+7,Grundschule,Schule Arsten,Arsten,1,0,1
+8,Grundschule,Schule Auf den Heuen,Oslebshausen,0,2,2
+9,Grundschule,Schule an der Andernacher Straße,Tenever,0,2,2
+10,Grundschule,Schule an der Augsburger Straße,Regensburger Straße,1,2,3
+11,Grundschule,Schule Alt-Aumund,Vegesack,0,0,0
+12,Grundschule,Schule Am Wasser,Grohn,0,6,6
+13,Grundschule,Schule am Baumschulenweg,Neu-Schwachhausen,2,5,7
+14,Grundschule,Schule an der Parsevalstraße,Sebaldsbrück,0,1,1
+15,Grundschule,Schule Borchshöhe,Aumund-Hammersbeck,1,2,3
+16,Grundschule,Schule Borgfeld,Borgfeld,1,1,2
+17,Grundschule,Schule an der Brinkmannstraße,Hemelingen,0,4,4
+18,Grundschule,Schule Am Weidedamm,Weidedamm,0,2,2
+19,Grundschule,Bürgermeister-Smidt-Schule,Ostertor,6,15,21
+20,Grundschule,Schule am Buntentorsteinweg,Huckelriede,0,7,7
+21,Grundschule,Schule Burgdamm,Burgdamm,0,3,3
+22,Grundschule,Marie-Curie-Schule,Lehesterdeich,0,4,4
+23,Grundschule,Schule an der Carl-Schurz-Straße,Schwachhausen,1,5,6
+24,Grundschule,Schule an der Düsseldorfer Straße,Blockdiek,1,6,7
+25,Grundschule,Schule Fährer Flur,Fähr-Lobbendorf,3,1,4
+26,Grundschule,Schule am Ellenerbrokweg,Ellenerbrok-Schevemoor,5,1,6
+27,Grundschule,Schule Farge-Rekum,Farge,0,3,3
+28,Grundschule,Schule an der Freiligrathstraße,Radio Bremen,1,1,2
+29,Grundschule,Schule an der Wigmodistraße,Blumenthal,0,4,4
+30,Grundschule,Schule an der Humannstraße,Ohlenhof,1,2,3
+31,Grundschule,Schule an der Glockenstraße,Hemelingen,1,0,1
+32,Grundschule,Schule an der Grambker Heerstraße,Burg-Grambke,1,2,3
+33,Grundschule,Schule Grolland,Grolland,1,0,1
+34,Grundschule,Schule Am Borgfelder Saatland,Borgfeld,2,2,4
+35,Grundschule,Schule am Bunnsackerweg,Habenhausen,0,0,0
+36,Grundschule,Schule am Halmerweg,Gröpelingen,0,3,3
+37,Grundschule,Schule Hammersbeck,Aumund-Hammersbeck,0,4,4
+38,Grundschule,Schule Rönnebeck,Rönnebeck,0,3,3
+39,Grundschule,Schule an der Horner Heerstraße,Horn,2,0,2
+40,Grundschule,Schule In der Vahr,Gartenstadt Vahr,1,8,9
+41,Grundschule,Helene-Kaisen-Schule,Huckelriede,0,7,7
+42,Grundschule,Schule an der Kantstraße,Südervorstadt,6,14,20
+43,Grundschule,Schule an der Karl-Lerbs-Straße,Gartenstadt Süd,3,5,8
+44,Grundschule,Schule am Pastorenweg,Lindenhof,4,6,10
+45,Grundschule,Kinderschule,Hastedt,0,8,8
+46,Grundschule,Schule Kirchhuchting,Kirchhuchting,0,6,6
+47,Grundschule,Schule an der Lessingstraße,Steintor,3,13,16
+48,Grundschule,Tami-Oelfken-Schule,Lüssum-Bockhorn,2,3,5
+49,Grundschule,Schule Mahndorf,Mahndorf,0,2,2
+50,Grundschule,Schule an der Melanchthonstraße,Westend,4,16,20
+51,Grundschule,Schule an der Landskronastraße,Burgdamm,0,3,3
+52,Grundschule,Schule an der Nordstraße,Steffensweg,3,5,8
+53,Grundschule,Schule Oberneuland,Oberneuland,0,1,1
+54,Grundschule,Schule an der Oderstraße,Hohentor,5,14,19
+55,Grundschule,Schule an der Oslebshauser Heerstr.,Oslebshausen,0,9,9
+56,Grundschule,Schule Osterholz,Ellenerbrok-Schevemoor,0,4,4
+57,Grundschule,Schule am Pfälzer Weg,Tenever,0,3,3
+58,Grundschule,Schule an der Paul-Singer-Straße,Neue Vahr Nord,0,3,3
+59,Grundschule,Schule an der Philipp-Reis-Straße,Lehesterdeich,5,1,6
+60,Grundschule,Schule am Pürschweg,Lüssum-Bockhorn,1,3,4
+61,Grundschule,Schule Überseestadt,Überseestadt,0,1,1
+62,Grundschule,Schule am Pulverberg,Osterfeuerberg,4,10,14
+63,Grundschule,Schule Rablinghausen,Rablinghausen,0,1,1
+64,Grundschule,Schule an der Rechtenflether Str.,Woltmershausen,0,7,7
+65,Grundschule,Schule an der Robinsbalje,Mittelshuchting,0,4,4
+66,Grundschule,Schule an der Fischerhuder Straße,Gröpelingen,4,11,15
+67,Grundschule,Schule an der Schmidtstraße,Steintor,7,19,26
+68,Grundschule,Schule Schönebeck,Schönebeck,0,2,2
+69,Grundschule,Schule an der Stichnathstraße,Kattenturm,0,4,4
+70,Grundschule,Schule Seehausen,Seehausen,0,1,1
+71,Grundschule,Schule am Osterhop,Hemelingen,0,0,0
+72,Grundschule,Schule an der Stader Straße,Hulsberg,1,8,9
+73,Grundschule,Schule St. Magnus,St. Magnus,0,0,0
+74,Grundschule,Schule Strom,Strom,0,0,0
+75,Grundschule,Schule an der Uphuser Straße,Ellener Feld,2,4,6
+76,Grundschule,Schule Sodenmatt,Kirchhuchting,0,4,4
+77,Grundschule,Schule an der Witzlebenstraße,Neue Vahr Südost,0,0,0
+78,Grundschule,Schule an der Carl-Katz-Straße,Arsten,0,1,1
+79,Grundschule,Schule an der Delfter Straße,Sodenmatt,0,4,4
+80,Grundschule,Schule Gartenstadt Werdersee,Huckelriede,0,1,1
+81,Grundschule,Schule im Dillener Quartier,Rönnebeck,0,0,0
+82,Grundschule,Schule an der Walliser Straße,Tenever,2,3,5
+83,Grundschule,Neue Schule Vahr,Radio Bremen,2,5,7
+84,Grundschule,Neue Schule Gröpelingen,Industriehäfen,3,7,10
+85,Förderzentrum,Schule an der Züricher Straße,Ellenerbrok-Schevemoor,1,1,2
+86,Förderzentrum,Georg-Droste-Schule,Gete,0,2,2
+87,Förderzentrum,Paul-Goldschmidt-Schule,Lesum,0,2,2
+88,Förderzentrum,Schule an der Marcusallee,Horn,0,1,1
+89,Erwachsenenschule,Erwachsenenschule Bremen,Bahnhofsvorstadt,5,6,11
+90,Gymnasium,Altes Gymnasium,Bahnhofsvorstadt,6,8,14
+91,Gymnasium,Gymnasium Vegesack,Vegesack,1,3,4
+92,Gymnasium,Gymnasium an der Hamburger Straße,Peterswerder,3,9,12
+93,Gymnasium,Alexander-von-Humboldt-Gymnasium,Sodenmatt,0,1,1
+94,Gymnasium,Hermann-Böse-Gymnasium,Barkhof,5,15,20
+95,Gymnasium,Gymnasium Horn,Lehe,3,1,4
+96,Gymnasium,Kippenberg-Gymnasium,Schwachhausen,0,5,5
+97,Gymnasium,Gymnasium Links der Weser,Kattenturm,0,4,4
+98,Berufsbildende Schule,Allgemeine Berufsbildende Schule,Steffensweg,4,10,14
+99,Berufsbildende Schule,Berufsbildende Schule für Metalltechnik,Oslebshausen,0,2,2
+100,Berufsbildende Schule,Wilhelm Wagenfeld Schule,Sodenmatt,0,1,1
+101,Berufsbildende Schule,Schulzentrum des Sekundarbereichs II Vegesack,Vegesack,2,4,6
+102,Berufsbildende Schule,Berufsbildende Schule für Einzelhandel und Logistik,Neue Vahr Südost,0,2,2
+103,Berufsbildende Schule,"Berufsschule für den Großhandel, Außenhandel und Verkehr",Überseestadt,3,5,8
+104,Berufsbildende Schule,Schulzentrum Grenzstraße,Westend,4,19,23
+105,Berufsbildende Schule,Inge Katz Schule,Neustadt,9,17,26
+106,Berufsbildende Schule,Schulzentrum des Sekundarbereichs II Utbremen,Utbremen,1,6,7
+107,Berufsbildende Schule,Technisches Bildungszentrum Mitte,Bahnhofsvorstadt,2,4,6
+108,Oberschule,Oberschule an der Delmestraße,Neustadt,9,17,26
+109,Oberschule,Oberschule an der Helsinkistraße,Burgdamm,0,1,1
+110,Oberschule,Wilhelm-Olbers-Oberschule,Hemelingen,0,0,0
+111,Oberschule,Oberschule Blumenthal,Blumenthal,0,3,3
+112,Oberschule,Oberschule an der Koblenzer Straße,Tenever,0,2,2
+113,Oberschule,Oberschule an der Lerchenstraße,Aumund-Hammersbeck,1,0,1
+114,Oberschule,Oberschule Roter Sand,Woltmershausen,0,2,2
+115,Oberschule,Oberschule an der Lehmhorster Straße,Lüssum-Bockhorn,3,3,6
+116,Oberschule,Oberschule Rockwinkel,Oberneuland,1,3,4
+117,Oberschule,Oberschule an der Schaumburger Straße,Hulsberg,1,13,14
+118,Oberschule,Oberschule an der Ronzelenstraße,Horn,2,0,2
+119,Oberschule,Oberschule Habenhausen,Habenhausen,0,0,0
+120,Oberschule,Oberschule an der Helgolander Straße,Westend,3,19,22
+121,Oberschule,Oberschule an der Julius-Brecht-Allee,Gartenstadt Vahr,0,0,0
+122,Oberschule,Oberschule Findorff,Regensburger Straße,6,12,18
+123,Oberschule,Oberschule Sebaldsbrück,Sebaldsbrück,0,1,1
+124,Oberschule,Oberschule am Waller Ring,Walle,2,8,10
+125,Oberschule,Roland zu Bremen Oberschule,Mittelshuchting,0,4,4
+126,Oberschule,Wilhelm-Kaisen-Oberschule,Huckelriede,0,7,7
+127,Oberschule,Albert-Einstein-Oberschule,Ellener Feld,2,5,7
+128,Oberschule,Oberschule Schwachhausen,Lehe,2,1,3
+129,Oberschule,Oberschule im Park,Oslebshausen,2,6,8
+130,Oberschule,Oberschule Am Barkhof,Barkhof,5,13,18
+131,Oberschule,Oberschule Ohlenhof,Gröpelingen,0,3,3
+132,Oberschule,Oberschule an der Egge,Blumenthal,0,1,1
+133,Oberschule,Neue Oberschule Gröpelingen,Ohlenhof,1,5,6
+134,Oberschule,Oberschule an der Kurt-Schumacher-Allee,Neue Vahr Südost,0,6,6
+135,Oberschule,Oberschule Überseestadt,Westend,4,19,23
+136,Oberschule,Oberschule Borchshöhe,Aumund-Hammersbeck,1,2,3
+137,Oberschule,Gesamtschule Bremen-West an der Lissaer Straße,Gröpelingen,1,2,3
+138,Oberschule,Gesamtschule Bremen-Ost an der Walliser Straße,Tenever,2,3,5
+139,Oberschule,Oberschule Lesum,Lesum,0,2,2
+140,Oberschule,Gesamtschule Bremen-Mitte an der Hemelinger Straße,Peterswerder,1,9,10
+141,Oberschule,Oberschule an der Hermannsburg,Kirchhuchting,4,4,8
+142,Oberschule,Oberschule am Leibnizplatz,Alte Neustadt,6,12,18
+143,Oberschule,Oberschule In den Sandwehen,Lüssum-Bockhorn,0,3,3
+144,Oberschule,Wilhelm-Focke-Oberschule,Lehesterdeich,1,4,5
+145,Oberschule,Gerhard-Rohlfs-Oberschule,Vegesack,2,9,11
+146,Willkommensschule,Ohlenhof-Willkommensschule,Gröpelingen,0,0,0
+147,Willkommensschule,Willkommensschule Stresemannstraße,Hastedt,0,3,3
+148,Willkommensschule,Willkommensschule Ellmersstraße,Utbremen,2,11,13
+149,Willkommensschule,Willkommensschule Bremen-Nord,Burgdamm,0,1,1
+150,Berufsbildende Schule,Schulzentrum des Sekundarbereichs II an der Alwin-Lonke-Straße,Burg-Grambke,1,1,2
+151,Berufsbildende Schule,Schulzentrum des Sekundarbereichs II an der Bördestraße,Lesum,1,1,2
+152,Berufsbildende Schule,Schulzentrum des Sekundarbereichs II Blumenthal,Blumenthal,0,1,1
+153,Berufsbildende Schule,Schulzentrum des Sekundarbereichs II Walle,Walle,1,4,5
+154,Berufsbildende Schule,Helmut Schmidt Schule,Überseestadt,2,0,2
+155,Berufsbildende Schule,Schulzentrum des Sekundarbereichs II am Rübekamp,Walle,0,0,0
+156,Private Grundschule,St.-Johannis-Schule,Altstadt,6,15,21
+157,Private Grundschule,St.-Marien-Schule,Westend,4,19,23
+158,Private Oberschule (teils und durchg. Gym),Freie Evangelische Bekenntnisschule Bremen,Habenhausen,1,1,2
+159,Waldorfschule,Freie Waldorfschule Bremen,Gete,0,5,5
+160,Private Oberschule (teils und durchg. Gym),Privatschule Mentor gGmbH,Ohlenhof,1,5,6
+161,Privates Förderzentrum,Tobias-Schule Bremen,Oberneuland,0,0,0
+162,Private Oberschule (teils und durchg. Gym),St.-Johannis-Schule Oberschule und Gymnasium,Altstadt,4,14,18
+163,Privates Gymnasium,Ökumenisches Gymnasium zu Bremen,Oberneuland,0,0,0
+164,Private berufsbildende Schule,Technikerschule Bremen,Hohweg,0,0,0
+165,Private berufsbildende Schule,Berufsbildungswerk Bremen gGmbH,Lehe,3,0,3
+166,Private Gesamtschule,International School of Bremen,Lehe,0,2,2
+167,Waldorfschule,Freie Waldorfschule Bremen Osterholz,Ellenerbrok-Schevemoor,4,1,5
+168,Private Grundschule,Freie Evangelische Bekenntnisschule Bremen -Grundschule-,Habenhausen,1,5,6
+169,Waldorfschule,Freie Waldorfschule Bremen-Nord,Blumenthal,0,7,7
+170,Privates Gymnasium,Nebelthau-Gymnasium,Lesum,0,1,1
+171,Private Grundschule,St.-Pius-Schule,Kirchhuchting,1,4,5
+172,Private Grundschule,St.-Antonius-Schule,Ellenerbrok-Schevemoor,0,7,7
+173,Private berufsbildende Schule,Kunstschule Wandsbek BFS für Grafik- und Kommunikationsdesign,Altstadt,5,31,36
+174,Private Oberschule (teils und durchg. Gym),Freie Gemeinschaftsschule Bremen,Hemelingen,6,7,13
+175,Schule des Gesundheitswesens,"Bildungsakademie der Gesundheit Nord gGmbH, Pflegeschule am Klinikum Bremen-Mitte",Hulsberg,0,6,6
+176,Schule des Gesundheitswesens,Bildungsakademie der Gesundheit Nord gGmbH (Schule für Anästhesietechnische und Operationstechnische Assistenz),Hulsberg,0,6,6
+177,Schule des Gesundheitswesens,"Bildungsakademie der Gesundheit Nord gGmbH, MTA-Schule",Hulsberg,0,6,6
+178,Schule des Gesundheitswesens,"Bildungsakademie der Gesundheit Nord gGmbH, Schule für Physiotherapie",Ostertor,11,21,32
+179,Schule des Gesundheitswesens,Friedehorst Kolleg - Pflegeschule,Lesum,0,2,2
+180,Private berufsbildende Schule,Deutsche Außenhandels- und Verkehrs-Akademie,Lehe,3,0,3
+181,Private berufsbildende Schule,Joli Visage Private Berufsfachschule für Kosmetik und Visagistik,Mittelshuchting,0,3,3
+182,Private berufsbildende Schule,Wirtschafts- und Sozialakademie der Arbeitnehmerkammer Bremen gGmbH,Hastedt,0,8,8
+183,Schule des Gesundheitswesens,"Bildungsakademie der Gesundheit Nord gGmbH, Fachschule für Logopädie",Hastedt,0,5,5
+184,Schule des Gesundheitswesens,Bremer Lehrinstitut für Physiotherapie DIAKO-BLIPHT,Alte Neustadt,8,13,21
+185,Schule des Gesundheitswesens,Institut für Berufs- und Sozialpädagogik gGmbH ibs,Hemelingen,5,8,13
+186,Private berufsbildende Schule,Parität. Bildungswerk Bremen e.V.,Altstadt,5,6,11
+187,Schule des Gesundheitswesens,impuls e.V. Private Fachschule für Gesundheitssport und Bewegungstherapie,Hastedt,3,8,11
+188,Schule des Gesundheitswesens,Wirtschafts- und Sozialakademie - Pflegeschule,Hastedt,0,5,5
+189,Schule des Gesundheitswesens,Bremer Zentrum für Pflegebildung e.V.,Alte Neustadt,1,7,8
+190,Schule des Gesundheitswesens,"Bildungsakademie der Gesundheit Nord gGmbH, Fachschule für Ergotherapie",Lesum,0,2,2
+191,Private berufsbildende Schule,Institut für Berufs- und Sozialpädagogik gGmbH ibs,Hastedt,0,5,5
+192,Private berufsbildende Schule,Lufthansa Aviation Training GmbH,Neuenland,0,1,1
+193,Private berufsbildende Schule,Dandelion Bildung GmbH,Bahnhofsvorstadt,7,21,28
+194,Schule des Gesundheitswesens,Mebino Rettungsdienstschule,Kattenturm,0,1,1
+195,Schule des Gesundheitswesens,ASB Trainingszentrum Rettungsdienst,Gartenstadt Vahr,1,6,7
+196,Schule des Gesundheitswesens,Bildungszentrum der Bremer Heimstiftung - Pflegeschule Standort Ost,Hastedt,0,3,3
+197,Schule des Gesundheitswesens,Bildungszentrum der Bremer Heimstiftung - Pflegeschule Standort Mitte,Ellener Feld,2,4,6
+198,Schule des Gesundheitswesens,Bildungszentrum der Bremer Heimstiftung - Pflegeschule Standort Nord,Ostertor,11,21,32
+199,Schule des Gesundheitswesens,Pflegeschule Deutsches Rotes Kreuz Landesverband Bremen e.V.,Neue Vahr Südwest,1,9,10
+200,Private berufsbildende Schule,Verwaltungsschule der Freien Hansestadt Bremen,Bahnhofsvorstadt,5,6,11
+201,Schule des Gesundheitswesens,Fortbildungsinstitut für den stadtbremischen Rettungsdienst (FIR),Hastedt,0,3,3

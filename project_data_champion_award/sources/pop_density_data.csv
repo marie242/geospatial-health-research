@@ -1,0 +1,113 @@
+id,area2,pop_index_2023
+111,Altstadt,32.1772
+112,Bahnhofsvorstadt,54.2161
+113,Ostertor,102.2786
+122,Industriehäfen,0.0612
+124,Neustädter Hafen,0.0089
+125,Hohentorshafen,0.8269
+211,Alte Neustadt,51.4651
+212,Hohentor,119.3819
+213,Neustadt,157.1326
+214,Südervorstadt,177.3536
+215,Gartenstadt Süd,122.45
+216,Buntentor,135.2579
+217,Neuenland,2.6465
+218,Huckelriede,15.6206
+231,Habenhausen,15.8583
+232,Arsten,21.5238
+233,Kattenturm,39.9546
+234,Kattenesch,42.2958
+241,Mittelshuchting,17.5989
+242,Sodenmatt,44.7584
+243,Kirchhuchting,27.5872
+244,Grolland,16.612
+251,Woltmershausen,33.5557
+252,Rablinghausen,17.5286
+261,Seehausen,0.9407
+271,Strom,0.5797
+311,Steintor,136.7852
+312,Fesenfeld,145.2508
+313,Peterswerder,64.2125
+314,Hulsberg,66.9714
+321,Neu-Schwachhausen,20.4508
+322,Bürgerpark,32.1117
+323,Barkhof,48.5716
+324,Riensberg,55.1487
+325,Radio Bremen,58.3483
+326,Schwachhausen,67.7772
+327,Gete,68.9456
+331,Gartenstadt Vahr,41.4427
+332,Neue Vahr Nord,95.4814
+334,Neue Vahr Südwest,59.9572
+335,Neue Vahr Südost,82.4376
+341,Horn,18.1104
+342,Lehe,22.9983
+343,Lehesterdeich,19.1292
+351,Borgfeld,5.5152
+361,Oberneuland,7.684
+371,Ellener Feld,20.063
+372,Ellenerbrok-Schevemoor,56.0668
+373,Tenever,39.838
+374,Osterholz,11.1652
+375,Blockdiek,54.0606
+381,Sebaldsbrück,20.3013
+382,Hastedt,39.3632
+383,Hemelingen,12.3984
+384,Arbergen,9.8568
+385,Mahndorf,8.9336
+411,Blockland,0.1424
+421,Regensburger Straße,110.4438
+422,Findorff-Bürgerweide,156.9824
+423,Weidedamm,93.4295
+424,In den Hufen,1.0081
+431,Utbremen,62.2805
+432,Steffensweg,116.4661
+433,Westend,104.2576
+434,Walle,51.3993
+435,Osterfeuerberg,77.9253
+436,Hohweg,0.6511
+437,Ueberseestadt,13.4886
+441,Lindenhof,112.4504
+442,Gröpelingen,64.4024
+443,Ohlenhof,69.8013
+444,In den Wischen,0.0191
+445,Oslebshausen,25.0395
+511,Burg-Grambke,14.7808
+512,Werderland,0.2965
+513,Burgdamm,25.5117
+514,Lesum,28.0611
+515,St. Magnus,23.6489
+521,Vegesack,37.4172
+522,Grohn,33.2462
+523,Schönebeck,21.7302
+524,Aumund-Hammersbeck,25.2233
+525,Fähr-Lobbendorf,44.7942
+531,Blumenthal,25.8448
+532,Rönnebeck,19.1816
+533,Lüssum-Bockhorn,25.6398
+534,Farge,5.2443
+535,Rekum,4.0826
+NA,Stadt Bremen,17.9063
+1,Stadtbezirk Mitte,5.4104
+2,Stadtbezirk Süd,19.8289
+3,Stadtbezirk Ost,21.2957
+4,Stadtbezirk West,17.2953
+5,Stadtbezirk Nord,17.3573
+11,Stadtteil Mitte,58.2549
+21,Stadtteil Neustadt,31.9878
+23,Stadtteil Obervieland,25.5572
+24,Stadtteil Huchting,23.2458
+25,Stadtteil Woltmershausen,27.8547
+31,Stadtteil Oestliche Vorstadt,88.022
+32,Stadtteil Schwachhausen,42.9478
+33,Stadtteil Vahr,63.5453
+34,Stadtteil Horn-Lehe,20.2253
+36,Stadtteil Oberneuland,7.684
+37,Stadtteil Osterholz,29.6087
+38,Stadtteil Hemelingen,14.9456
+42,Stadtteil Findorff,64.5393
+43,Stadtteil Walle,27.1085
+44,Stadtteil Gröpelingen,39.3883
+51,Stadtteil Burglesum,13.1875
+52,Stadtteil Vegesack,31.5519
+53,Stadtteil Blumenthal,14.6168
